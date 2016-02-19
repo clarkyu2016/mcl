@@ -7,6 +7,10 @@ body{
     background-color: #f5f8fa;
 }
 
+.containerofall{
+    padding-top: 25px;
+    
+}
 p{
     font-weight: 300;
 }
@@ -91,9 +95,7 @@ a:hover, a:focus {
 
 /*正文内容*/
 
-.firstbar{
-    margin-top: 25px;
-}
+
 
 .lastbar{
     min-height: 400px;
@@ -112,6 +114,7 @@ a:hover, a:focus {
     border-color: #d3e0e9;
     border:  1px ridge;
     background: white;
+
 }
 
 .maincontent{
@@ -160,6 +163,8 @@ a:hover, a:focus {
     font-size: 14px;
     font-weight: 600;
     margin-right: 15px;
+    margin-top: 15px;
+
 }
 
 .aboutme1{
@@ -252,3 +257,19 @@ a:hover, a:focus {
 .ajust{
         margin-bottom: 1px;
     }
+
+.alertdate{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.adjustincontent{
+    
+    margin-top: -10px;
+}
+
+.sidetext{
+    
+    margin:15px 15px 15px 15px;
+
+}

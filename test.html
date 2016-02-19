@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- reference Moment.js library -->
+  <script src="js/moment.js" type="text/javascript"></script>
+</head>
+<body>
+
+<h2>Moment Date</h2>
+<!-- container for Moment.js output -->
+<div id="displayMoment"></div>
+
+<h2>JavaScript Date</h2>
+<!-- container for JavaScript Date output -->
+<div id="displayJsDate"></div>
+
+<h2>Test Date</h2>
+<!-- container for JavaScript Date output -->
+<div id="countDate"></div>
+
+<script type="text/javascript">
+(function()
+{
+  
+
+var s1 = '2015-05-12';
+
+s1 = new Date(s1.replace(/-/g, "/"));
+s2 = new Date();
+
+var days = s2.getTime() - s1.getTime();
+var time = parseInt(days / (1000 * 60 * 60 * 24));
+  
+
+  
+
+    
+var timeforcount = document.getElementById('countDate');
+  timeforcount.innerHTML = time;
+    
+})();
+</script>
+
+</body>
+</html>
