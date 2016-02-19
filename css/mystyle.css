@@ -1,0 +1,254 @@
+body{
+    font-family: "微软雅黑","Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 50px 0px 0px 0px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #1e3948;
+    background-color: #f5f8fa;
+}
+
+p{
+    font-weight: 300;
+}
+
+a{
+    color: #3097d1;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #216a94;
+    text-decoration: underline;
+}
+
+
+.brandpos{
+    margin-top: -9px;
+    margin-right: 15px;
+}
+
+.brandpos2{
+    margin-top: -11px;
+    margin-right: 15px;
+}
+
+
+.navcss{
+   margin-top: 3px;
+}
+.navbar-inverse{
+    background: #3097d1;
+    min-height: 52px;
+    border: 1px solid transparent;
+
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background: #3097d1;
+    box-shadow: inset 0 0px 0px rgba(0,0,0,0);
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+ .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+    background: #3097d1;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #303F9F;
+    color:#eeeeee;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
+    color:#eeeeee;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color: rgba(255, 255, 255, 0.8);
+    text-shadow: 0 0px 0 rgba(0,0,0,0);
+}
+
+/*.navbar-fixed-top {
+    border-width: 0 0 0px;
+}*/
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #5bc0de;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #5bc0de;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #5bc0de;
+}
+
+
+/*正文内容*/
+
+.firstbar{
+    margin-top: 25px;
+}
+
+.lastbar{
+    min-height: 400px;
+}
+
+.incontent{
+    margin-bottom: 15px;
+    padding: 10px 0px 0px 0px;
+    /*border:  1px ridge;*/
+    /*min-height: 400px;*/
+    /*border-color: #d3e0e9;*/
+}
+
+.siderbar{
+    margin: 0px 15px 0px 15px;
+    border-color: #d3e0e9;
+    border:  1px ridge;
+    background: white;
+}
+
+.maincontent{
+    margin: 0px 15px 5px 15px;
+    border-color: #d3e0e9;
+    border:  1px ridge;
+    background: white;
+}
+
+.bigbang{
+    width: 100%;
+}
+
+.headerpic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+    width: auto;
+
+}
+
+.nametitle{
+    font-weight: 500;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.intro{
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -3px;
+    font-weight: 300;
+    
+}
+
+.friend{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.aboutme{
+    margin-left: 15px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: 15px;
+}
+
+.aboutme1{
+    margin-bottom: 15px;
+    margin-top: 18px;
+}
+
+.iconabout{
+    font-size:12px;
+}
+
+.picwall{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail{
+  display: block;
+  /*padding: 2px;
+  margin-bottom: 3px;*/
+  line-height: 1.42857143;
+  border: 0px solid #ddd;
+  border-radius: none;
+  box-shadow: none;
+}
+
+.picwallthumb .thumbnail{
+
+  padding: 2px;
+  margin-bottom: 3px;
+    
+}
+
+#zhengweng .picshow {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.picshow .thumbnail{
+    margin-bottom: 0px;
+}
+
+
+.picwall1{
+    padding-right: 3px;
+}
+
+.picwall2{
+    padding-left: 3px;
+}
+
+.lastwall{
+    margin-bottom: -25px;
+}
+
+.contentbar{
+    border-color: #d3e0e9;
+    border-bottom: 1px ridge;
+    padding: 16px;
+    
+}
+
+.camera1{
+    background: white;
+}
+.camera1:hover
+{ 
+    background: rgb(221, 221, 221); 
+}
+
+.content-date{
+    float:right; 
+    font-size: 85%;
+    margin-top: 2px;
+}
+
+.titlep{
+    margin-bottom: 0px;
+}
+.content-title{
+    margin-left: 30px;
+    margin-right: 0;    
+}
+
+.nametitle1{
+    font-weight: 500;
+    font-size: 14px;}
+
+.ajust{
+        margin-bottom: 1px;
+    }
