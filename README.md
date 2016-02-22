@@ -14,9 +14,13 @@ This website is based on Bootstrap and I also refer to the theme from Bootstrap.
 Change Log
 -------------
 
-
+**2016.2.22**
+Renew the index page and add bottom nav.
+Later, more contents will be added.
 
 **2016.2.20**
 Rewrite the sidebar CSS and add alert.
+
+
 
 

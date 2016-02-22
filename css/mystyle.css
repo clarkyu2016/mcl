@@ -273,3 +273,37 @@ a:hover, a:focus {
     margin:15px 15px 15px 15px;
 
 }
+
+#followclass{
+    width: 60px;
+    margin-right: 10px;
+
+    
+}
+
+.followright{
+    margin-left: 10px;
+    
+}
+
+#followtext{
+    margin-top: 5px;
+    font-weight: 500;
+}
+
+.glyphicon{
+    margin-right: 6px;
+    /*check on different pc*/
+}
+
+.pagination{
+ 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+footer{
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
