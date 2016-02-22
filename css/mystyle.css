@@ -313,10 +313,11 @@ footer{
 }
 
 .row{
-
+    margin-left: auto;
+    margin-top: auto;
 }
 
 .col-xs-12{
-
-
+       margin-left: auto;
+    margin-top: auto;
 }
