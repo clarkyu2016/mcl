@@ -308,3 +308,37 @@ footer{
     margin: 10px 10px 10px 10px;
 }
 
+/**photo.html jumptron**/
+.photojum{
+
+    min-height: 400px;
+    background-image: url(../pic/photobg.jpg);
+    background-position: 0 -120px;
+
+}
+
+.photohead{
+    margin-top: 150px;
+}
+
+#machunli{
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.photothumb{
+
+  background-color: #F5F8FA;
+ padding: 0px;
+
+
+
+}
+
+.photopadding{
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
