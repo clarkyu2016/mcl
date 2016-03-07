@@ -342,3 +342,16 @@ footer{
     padding-bottom: 0px;
     padding-top: 0px;
 }
+
+.happyq{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#happyqtext{
+    margin-top: 30px;
+    text-align: center;
+}
